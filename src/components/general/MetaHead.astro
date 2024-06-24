@@ -31,20 +31,13 @@ const { title, description, ogImageUrl } = Astro.props as IMetaHead;
 {title && <meta name="title" content={`${title} - ${info.name}`} />}
 {description && <meta name="description" content={description} />}
 
-<!-- Open Graph / Facebook -->
-{title && <meta property="og:type" content="website" />}
-{
-  title && (
-    <meta property="og:url" content={`${info.baseUrl}${Astro.url.pathname}`} />
-  )
-}
-{title && <meta property="og:title" content={`${title} - ${info.name}`} />}
-{description && <meta property="og:description" content={description} />}
-{
-  ogImageUrl && (
-    <meta property="og:image" content={`${info.baseUrl}${ogImageUrl}`} />
-  )
-}
+<!-- Instagram -->
+
+<meta property="og:url" content="https://www.instagram.com/alvaro_salort/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Instagram" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="" />
 
 <!-- Twitter -->
 {title && <meta property="twitter:card" content="summary_large_image" />}
