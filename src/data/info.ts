@@ -89,7 +89,7 @@ export const info = {
 
   socialMedia: {
     instagram: "https://www.instagram.com/alvaro_salort/",
-    twitter: "",
+    twitter: "https://x.com/Alvarosrt",
     github: "https://github.com/alvarosrt",
     email: "mailto:alvarosalort9@gmail.com",
     linkedin: "https://www.linkedin.com/in/alvaro-salort",
