@@ -97,7 +97,7 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "TripleDES Cryptography",
       isFeatured: true,
       thumbnail: "/assets/images/Cryptography-TripleDES.png",
       githubUrl: "https://github.com/alvarosrt/Cybersecurity_Portfolio/tree/main/Cryptography/TripleDES",
@@ -105,5 +105,5 @@ export const info = {
     },
   ],
 
-  baseUrl: "https://www.alvarosrt.github.io", 
+  baseUrl: "https://alvarosrt.vercel.app/", 
 }
