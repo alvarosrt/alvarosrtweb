@@ -101,7 +101,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/Cryptography-TripleDES.png",
       githubUrl: "https://github.com/alvarosrt/Cybersecurity_Portfolio/tree/main/Cryptography/TripleDES",
-      liveUrl: "https://alvarosrt.vercel.app/",
+      liveUrl: "https://github.com/alvarosrt/Cybersecurity_Portfolio/tree/main/Cryptography",
     },
   ],
 
