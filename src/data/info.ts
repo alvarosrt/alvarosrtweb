@@ -99,7 +99,7 @@ export const info = {
     {
       title: "Astro Portfolio",
       isFeatured: true,
-      thumbnail: "/assets/images/Cryptography-TripleDES.jpg",
+      thumbnail: "/assets/images/Cryptography-TripleDES.png",
       githubUrl: "https://github.com/alvarosrt/Cybersecurity_Portfolio/tree/main/Cryptography/TripleDES",
       liveUrl: "https://alvarosrt.vercel.app/",
     },
