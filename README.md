@@ -19,7 +19,7 @@ Explore my portfolio and projects: [Alvaro Salort Portfolio](https://alvarosrt.v
 | Information Security   | DLP (Data Loss Prevention), IRM (Information Rights Management)                    |
 | Network Security       | Firewall (Pfsense), IDS (SecurityOnion), IPS, VPN, Proxy                           |
 | Host Security          | AV (Antivirus), EDR (Endpoint Detection and Response), XDR (Extended Detection and Response), HIDS (Host-based Intrusion Detection System) |
-| Vulnerability Management |                                                                              |
+| Vulnerability Management | Burp Suite, OpenVAS, Nessus                                                      |
 | Incident Response      | Splunk, TheHive, Cortex                                                            |
 | Identity Management    | SAML, OAuth                                                                        |
 | Risk Management        | STRIDE, MITRE ATT&CK                                                               |
