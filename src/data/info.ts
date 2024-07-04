@@ -103,6 +103,13 @@ export const info = {
       githubUrl: "https://github.com/alvarosrt/Cybersecurity_Portfolio/tree/main/Cryptography/TripleDES",
       liveUrl: "https://github.com/alvarosrt/Cybersecurity_Portfolio/tree/main/Cryptography",
     },
+    {
+      title: "Vulnerabilities Data Visualization",
+      isFeatured: true,
+      thumbnail: "/assets/images/vuln.png",
+      githubUrl: "https://github.com/alvarosrt/Data-analysis-Cybersecurity-Risk",
+      liveUrl: "https://github.com/alvarosrt/Data-analysis-Cybersecurity-Risk",
+    },
   ],
 
   baseUrl: "https://alvarosrt.vercel.app/", 
